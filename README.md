@@ -64,13 +64,6 @@ Layout: Responsive and mobile-friendly using Flex/Grid.
 
 Components: Modular and reusable UI components.
 
-🧪 Project Management & Design Tools
-Figma UI/UX Design: Figma Design File
-
-Trello Project Board: Trello Board
-
-Overflow Diagram: Overflow Diagram
-
 🚀 Future Scope
 Backend integration (Firebase, Node.js)
 
