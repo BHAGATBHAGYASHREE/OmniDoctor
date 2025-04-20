@@ -12,9 +12,8 @@
 3. **Install Dependencies:**  
    npm install
    
-Start the Development Server:
+Start the Development Server: npm run dev
 
-npm run dev
 Open in Browser:
 
 Visit http://localhost:5173 (or the port Vite provides) to view the application.
